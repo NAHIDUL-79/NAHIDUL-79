@@ -1,10 +1,4 @@
 # HAY 👋 ! I AM NAHID - NAHID-VIRUS 
-![I am Python code creator ](https://scontent.fdac24-2.fna.fbcdn.net/v/t39.30808-6/408459363_372322955305823_3567103761330475351_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeEvoIMi7mR3mQhbIEJ-55i3fQsbDzUPsHN9CxsPNQ-wcxi97JgWiAp5kdSQUKz4-3YznTqOQukBELgX12JLJccr&_nc_ohc=GWA3UVlIeQ4AX_Tpzf7&_nc_ht=scontent.fdac24-2.fna&oh=00_AfCXE3UCq3Nk6M7r6LJ0T8g_UT6D7I4UxihJkdXTAAtEaw&oe=66108E16)
-
-Hay there i am a student . I love coding .I hate love 
-
-Skills: PYTHON / GIT / HTML / CSS
-
 - 🔭 I’m currently working on you tube 
 - 🌱 I’m currently learning python 
 - 💬 Ask me about good boy 
